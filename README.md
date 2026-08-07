@@ -90,7 +90,7 @@ The app will be live at `http://localhost:8501`.
 
 ## 📊 Dataset
 
-Trained on the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/dataset/228/sms+spam+collection), a public set of 5,500+ labeled SMS messages.
+Trained on the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset), a public set of 5,500+ labeled SMS messages.
 
 ---
 
