@@ -2,7 +2,7 @@
 
 A machine learning web app that classifies SMS and email messages as **spam** or **safe** in real time, wrapped in a dark glassmorphic dashboard UI built with Streamlit.
 
-![SpamShield home screen](screenshots/01-home.png)
+![SpamShield home screen](images/home.png)
 
 ---
 
