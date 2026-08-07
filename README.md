@@ -21,11 +21,11 @@ A machine learning web app that classifies SMS and email messages as **spam** or
 
 | Message input | Safe result |
 |---|---|
-| ![Message input](screenshots/02-message-input.png) | ![Safe result](screenshots/03-safe-result.png) |
+| ![Message input](images/message-input.png) | ![Safe result](images/safe-result.png) |
 
 | Spam detected |
 |---|
-| ![Spam result](screenshots/04-spam-result.png) |
+| ![Spam result](images/spam-result.png) |
 
 ---
 
